@@ -1,3 +1,5 @@
+![Kano's logo](https://i.imgur.com/Yc5nxbI.png)
+
 ## Katas -- Functions and Loops
 
 A kata is an individual exercise where you practice a programming skill through repetition. This kata focuses on Python loops and functions. The functions start out trivial, and ramp up in difficulty. The main goals of these katas are:
